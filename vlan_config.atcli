@@ -1,0 +1,5 @@
+vlan database
+ vlan 10 name "DATA"
+exit
+interface port1.0.1
+ switchport access vlan 10
