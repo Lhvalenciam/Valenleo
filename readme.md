@@ -1,2 +1,2 @@
-# Check Point Scripts
-Scripts to automate VPN and policy rule creation using mgmt_cli.
+# Cisco Scripts
+Templates for HSRP, Multicast, and VLAN trunking configurations.
