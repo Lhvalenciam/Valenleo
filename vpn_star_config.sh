@@ -1,0 +1,1 @@
+mgmt_cli add-vpn-community-star name "VPN_Estrella" center-gateways "CenterGateway" satellite-gateways.1 "Branch1" satellite-gateways.2 "Branch2" vpn-settings.mesh-use-shared-secrets false --format json
