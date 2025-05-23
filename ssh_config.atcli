@@ -1,0 +1,4 @@
+enable
+configure terminal
+username admin password encrypted admin123
+ip ssh server enable

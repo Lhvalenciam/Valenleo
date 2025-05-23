@@ -1,0 +1,3 @@
+interface port1.0.1-2
+ lacp active
+ switchport mode trunk
