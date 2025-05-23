@@ -1,0 +1,4 @@
+! Multicast Config
+ip multicast-routing
+interface Vlan51
+ ip pim sparse-mode
